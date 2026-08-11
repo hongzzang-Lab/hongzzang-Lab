@@ -66,7 +66,7 @@ Real-time safety navigation for pedestrians and mobility-impaired users.
 - YOLO/NCNN-based edge perception
 - IPM-based real-world distance estimation
 - OSMnx pedestrian routing and risk-aware path recommendation
-- **제1회 파이썬 SW 활용 경진대회 최우수상, 2026**
+- **파이썬 SW 활용 경진대회 최우수상, 2026**
 
 ### 🤟 Sign Angel
 Emergency sign-language communication system for disaster situations.
@@ -86,7 +86,7 @@ Assistive mobile robot for visually impaired users.
 
 - Line-tracing based mobility assistance
 - Obstacle detection and motor control
-- **광운대학교 창의공학설계 창의상, 2024**
+- **창의공학설계 창의상, 2024**
 
 ### 🌍 [TERRA128](https://github.com/TERRA128)
 Terrain-aware exploration robot project.
@@ -123,9 +123,6 @@ AI-powered hairstyle recommendation system.
 
 - **AI 티키타카 Mentor** — selected as an AI mentoring program mentor and currently participating in mentoring activities.
 - **Physics Foundation Mentor** — mentoring undergraduate students in foundational physics learning.
-- **Project Team Leader** — led **SEAL, Sign Angel, M.O.S, and Gilbut AI**, while also contributing directly to core AI/robotics implementation.
-- **KT 디지털인재장학생 1조 Team Leader / AI Part Lead** — leading problem definition, AI planning, and integration for Gilbut AI.
-
 ---
 
 ## 🏆 Highlights
@@ -134,10 +131,10 @@ AI-powered hairstyle recommendation system.
 |---|---|
 | **2026** | 🔬 GIST AILAB Summer Research Internship · Embodied AI |
 | **2026** | 🎓 KT 디지털인재장학생 |
-| **2026** | 🏆 제1회 파이썬 SW 활용 경진대회 **최우수상** · M.O.S |
+| **2026** | 🏆 파이썬 SW 활용 경진대회 **최우수상** · M.O.S |
 | **2026** | 📄 KCI Journal Publication · **First Author** |
 | **2025** | 🏆 H.O.P.E. 창의보조공학 경진대회 **최우수상** · Sign Angel |
-| **2024** | 🏅 광운대학교 창의공학설계 **창의상** · SEAL |
+| **2024** | 🏅 창의공학설계 **창의상** · SEAL |
 
 ---
 
