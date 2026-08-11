@@ -162,21 +162,6 @@ AI-powered hairstyle recommendation system.
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hongzzang-Lab&show_icons=true&hide_border=true&theme=transparent&title_color=14b8a6&icon_color=14b8a6" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongzzang-Lab&layout=compact&hide_border=true&theme=transparent&title_color=14b8a6" alt="Top Languages" />
-
-<br/>
-
-<img src="https://ghchart.rshah.org/14b8a6/hongzzang-Lab" alt="Jeong-min Hong's GitHub contribution heatmap" />
-
-</div>
-
----
-
 ## 🤝 Affiliations & Collaboration
 
 - **GIST AILAB** — Summer Research Internship · Embodied AI / Visual Room Rearrangement
