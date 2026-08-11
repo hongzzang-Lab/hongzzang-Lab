@@ -15,7 +15,7 @@
 
 I am an AI & Robotics undergraduate interested in turning perception and intelligence into **systems that work in the physical world**.
 
-My technical path has expanded from **sensor control → Vision AI → Edge AI → Physical AI**, and I have worked across assistive robotics, sign-language recognition, edge navigation, embodied AI, and accessibility-aware mobility systems.
+My technical path has expanded from **sensor control → Vision AI → Edge AI → Physical AI**, and I have worked across assistive robotics, sign-language recognition, edge navigation, embodied AI, balancing-robot hardware, and accessibility-aware mobility systems.
 
 > **Current Interest — Rescue Robotics (구조로봇)**  
 > I am currently especially interested in rescue robots that must perceive, navigate, and make robust decisions in uncertain disaster environments.
@@ -25,11 +25,11 @@ My technical path has expanded from **sensor control → Vision AI → Edge AI �
 - **GIST AILAB — Summer Research Intern**  
   Visual Room Rearrangement / Embodied AI research, exploring **action-level verification** before object-pose-changing actions are executed.
 
-- **[Gilbut AI](https://github.com/Gilbut2026/Gilbut_AI) — Team Leader  
+- **[Gilbut AI](https://github.com/Gilbut2026/Gilbut_AI) — Team Leader / AI Part Lead**  
   Accessibility-aware mobility service with personalized route scoring using walking ability, stairs, mobility aids, transfers, obstacles, and weather.
 
 - **EASY Lab — Undergraduate Researcher**  
-  Research interests spanning Vision AI, Edge AI, distributed intelligence
+  Research interests spanning Vision AI, Edge AI, distributed intelligence, Physical AI, and robotics.
 
 ---
 
@@ -87,6 +87,17 @@ Assistive mobile robot for visually impaired users.
 - Line-tracing based mobility assistance
 - Obstacle detection and motor control
 - **창의공학설계 창의상, 2024**
+
+### ⚙️ SEGWAY — Two-Wheel Balancing Robot *(Private Repository)*
+Two-wheel balancing robot platform designed and physically fabricated from CAD structure to assembly.
+
+`Autodesk Inventor` · `DC Gear Motor` · `Mechanical Design` · `Two-Wheel Robot Platform`
+
+- Designed the complete two-wheel robot hardware structure in Autodesk Inventor
+- Created custom base, side, and insert plates around the DC gear-motor drive layout
+- Fabricated and assembled the physical robot platform based on the CAD design
+- Designed the hardware platform so that IMU/PID-based attitude stabilization could be added as a later control stage
+- Source repository is private; project details are summarized here without exposing the repository
 
 ### 🌍 [TERRA128](https://github.com/TERRA128)
 Terrain-aware exploration robot project.
