@@ -20,11 +20,11 @@ I like turning a concrete user problem into a working system: defining the probl
 
 ## What I've built
 
-- **[M.O.S — Map of Safety](https://github.com/hongzzang-Lab/MOS-Map-of-Safety)** — Real-time safety navigation for pedestrians and mobility-impaired users. Combines YOLO/NCNN edge inference, IPM distance estimation, OSMnx routing, and risk-aware path recommendation. **제1회 파이썬 SW 활용 경진대회 최우수상, 2026.**
+- **[M.O.S — Map of Safety](https://github.com/hongzzang-Lab/MOS-Map-of-Safety)** — Real-time safety navigation for pedestrians and mobility-impaired users. Combines YOLO/NCNN edge inference, IPM distance estimation, OSMnx routing, and risk-aware path recommendation. **파이썬 SW 활용 경진대회 최우수상, 2026.**
 
 - **Sign Angel** — Emergency sign-language communication system using MediaPipe-based **347D feature engineering**, a **Bi-LSTM** recognition model, and an LLM for context-aware emergency messages. Expanded into a **KCI first-author paper** after receiving the **H.O.P.E. 창의보조공학 경진대회 최우수상**.
 
-- **[SEAL — Smart Enhanced Assistive Locomotion](https://github.com/hongzzang-Lab/SEAL-Smart-Enhanced-Assistive-Locomotion)** — Assistive mobile robot using Arduino, IR/line sensors, ultrasonic sensing, Bluetooth, and PWM motor control. **광운대학교 창의공학설계 창의상, 2024.**
+- **[SEAL — Smart Enhanced Assistive Locomotion](https://github.com/hongzzang-Lab/SEAL-Smart-Enhanced-Assistive-Locomotion)** — Assistive mobile robot using Arduino, IR/line sensors, ultrasonic sensing, Bluetooth, and PWM motor control. **창의공학설계 창의상, 2024.**
 
 - **[TERRA128](https://github.com/TERRA128)** — Terrain-aware exploration robot project. Worked as **Robotics System Engineer (Vision & Mechanical Design)** on RGB-D/IMU terrain perception, BEV/Costmap-based planning, A* path search, and mechanical probe design.
 
