@@ -166,8 +166,6 @@ AI-powered hairstyle recommendation system.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hongzzang-Lab&show_icons=true&hide_border=true&theme=transparent&title_color=14b8a6&icon_color=14b8a6" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongzzang-Lab&layout=compact&hide_border=true&theme=transparent&title_color=14b8a6" alt="Top Languages" />
 
 <br/>
 
