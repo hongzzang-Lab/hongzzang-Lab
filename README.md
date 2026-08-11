@@ -25,7 +25,7 @@ My technical path has expanded from **sensor control → Vision AI → Edge AI �
 - **GIST AILAB — Summer Research Intern**  
   Visual Room Rearrangement / Embodied AI research, exploring **action-level verification** before object-pose-changing actions are executed.
 
-- **[Gilbut AI](https://github.com/Gilbut2026/Gilbut_AI) — Team Leader / AI Part Lead**  
+- **[Gilbut AI](https://github.com/Gilbut2026/Gilbut_AI) — Team Leader  
   Accessibility-aware mobility service with personalized route scoring using walking ability, stairs, mobility aids, transfers, obstacles, and weather.
 
 - **EASY Lab — Undergraduate Researcher**  
