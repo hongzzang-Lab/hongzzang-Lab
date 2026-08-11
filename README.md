@@ -171,7 +171,7 @@ AI-powered hairstyle recommendation system.
 - **EASY Lab** — Undergraduate Researcher · Vision AI / Edge AI / distributed intelligence
 - **[Gilbut2026](https://github.com/Gilbut2026)** — KT Digital Talent accessibility-aware mobility project
 - **[TERRA128](https://github.com/TERRA128)** — terrain-aware Physical AI / robotics project
-- **H.O.P.E. 창의보조공학 경진대회** — Sign Angel · **최우수상, 2025**
+- **[HOPE-SL-Partner](https://github.com/HOPE-SL-Partner)** — Sign Angel project organization · H.O.P.E. 창의보조공학 경진대회 **최우수상, 2025**
 
 ---
 
