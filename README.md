@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=230&section=header&text=Jeong-min%20Hong&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Robotics%20%7C%20Vision%20AI%20%7C%20Edge%20AI%20%7C%20Physical%20AI%20%7C%20Rescue%20Robotics&descSize=17&descAlignY=60)
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=760&lines=Vision+AI+%E2%86%92+Edge+AI+%E2%86%92+Physical+AI;Embodied+AI+%26+Rescue+Robotics;Building+AI+systems+for+mobility%2C+communication%2C+and+real-world+robots)](https://git.io/typing-svg)
+<h1>Jeong-min Hong 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=760&lines=Vision+AI+%E2%86%92+Edge+AI+%E2%86%92+Physical+AI;Embodied+AI+%26+Rescue+Robotics;Building+AI+systems+for+mobility%2C+communication%2C+and+real-world+robots" alt="Typing SVG" />
 
 **AI & Robotics undergraduate @ Kwangwoon University**  
 **GIST AILAB Summer Research Intern · EASY Lab Undergraduate Researcher**
@@ -61,7 +61,7 @@ Following the Sign Angel project and KCI publication, I am continuing exploratio
 ### 🗺️ [M.O.S — Map of Safety](https://github.com/hongzzang-Lab/MOS-Map-of-Safety)
 Real-time safety navigation for pedestrians and mobility-impaired users.
 
-`YOLOv11n-seg` · `NCNN` · `Raspberry Pi` · `IPM` · `OSMnx` · `Gemini` · `Edge AI`
+`YOLOv11n-seg` · `NCNN` · `Raspberry Pi 5` · `IPM` · `OSMnx` · `Gemini` · `Edge AI`
 
 - YOLO/NCNN-based edge perception
 - IPM-based real-world distance estimation
@@ -82,7 +82,7 @@ Emergency sign-language communication system for disaster situations.
 ### 🤖 [SEAL — Smart Enhanced Assistive Locomotion](https://github.com/hongzzang-Lab/SEAL-Smart-Enhanced-Assistive-Locomotion)
 Assistive mobile robot for visually impaired users.
 
-`Arduino` · `IR Sensor` · `Ultrasonic Sensor` · `Bluetooth` · `PWM`
+`Arduino` · `IR Sensor` · `Ultrasonic Sensor` · `PWM`
 
 - Line-tracing based mobility assistance
 - Obstacle detection and motor control
@@ -91,7 +91,7 @@ Assistive mobile robot for visually impaired users.
 ### 🌍 [TERRA128](https://github.com/TERRA128)
 Terrain-aware exploration robot project.
 
-`RGB-D` · `IMU` · `Point Cloud` · `BEV` · `Costmap` · `A*` · `Mechanical Design`
+`RealSense RGB-D` · `IMU` · `BEV` · `Costmap` · `A*` · `Inventor`
 
 - Role: **Robotics System Engineer — Vision & Mechanical Design**
 - RGB-D/IMU terrain perception and mapping
@@ -100,8 +100,6 @@ Terrain-aware exploration robot project.
 
 ### 💇 [StyleVision](https://github.com/hongzzang-Lab/Style-Vision-AI-Hair-Recommendation)
 AI-powered hairstyle recommendation system.
-
-`InceptionV3` · `MediaPipe FaceMesh` · `OpenCV` · `TensorFlow/Keras` · `PyQt5`
 
 ---
 
@@ -123,6 +121,7 @@ AI-powered hairstyle recommendation system.
 
 - **AI 티키타카 Mentor** — selected as an AI mentoring program mentor and currently participating in mentoring activities.
 - **Physics Foundation Mentor** — mentoring undergraduate students in foundational physics learning.
+
 ---
 
 ## 🏆 Highlights
@@ -140,21 +139,14 @@ AI-powered hairstyle recommendation system.
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+> Tech stack below follows the technologies listed in my current CV.
 
-### AI · Vision · Software
-
-[![AI Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,postgres,aws&theme=dark)](https://skillicons.dev)
-
-`YOLO` · `MediaPipe` · `NCNN` · `Bi-LSTM` · `LLM` · `Feature Engineering`
-
-### Robotics · Embedded · Systems
-
-[![Robotics Skills](https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux,git,vscode&theme=dark)](https://skillicons.dev)
-
-`STM32` · `ATmega128` · `RGB-D` · `IMU` · `PID` · `PWM` · `UART` · `Costmap` · `A*`
-
-</div>
+| Category | Technologies |
+|---|---|
+| **Hardware / MCU** | `STM32` · `ATmega128` · `Raspberry Pi 5` · `Arduino` |
+| **Vision / AI** | `MediaPipe` · `YOLO` · `NCNN` · `LLM` |
+| **Control / Sensor** | `PID` · `Kalman Filter` · `Moving Average Filter` · `PWM` · `UART` |
+| **Languages** | `Python` · `C` |
 
 ---
 
@@ -162,12 +154,8 @@ AI-powered hairstyle recommendation system.
 
 <div align="center">
 
-<a href="https://github.com/hongzzang-Lab">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hongzzang-Lab&show_icons=true&hide_border=true&theme=transparent&title_color=14b8a6&icon_color=14b8a6" />
-</a>
-<a href="https://github.com/hongzzang-Lab">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongzzang-Lab&layout=compact&hide_border=true&theme=transparent&title_color=14b8a6" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hongzzang-Lab&show_icons=true&hide_border=true&theme=transparent&title_color=14b8a6&icon_color=14b8a6" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongzzang-Lab&layout=compact&hide_border=true&theme=transparent&title_color=14b8a6" alt="Top Languages" />
 
 <br/>
 
@@ -177,10 +165,13 @@ AI-powered hairstyle recommendation system.
 
 ---
 
-## 🤝 Organizations & Collaboration
+## 🤝 Affiliations & Collaboration
 
-- **[Gilbut2026](https://github.com/Gilbut2026)** — accessibility-aware mobility service developed through the KT Digital Talent program
+- **GIST AILAB** — Summer Research Internship · Embodied AI / Visual Room Rearrangement
+- **EASY Lab** — Undergraduate Researcher · Vision AI / Edge AI / distributed intelligence
+- **[Gilbut2026](https://github.com/Gilbut2026)** — KT Digital Talent accessibility-aware mobility project
 - **[TERRA128](https://github.com/TERRA128)** — terrain-aware Physical AI / robotics project
+- **H.O.P.E. 창의보조공학 경진대회** — Sign Angel · **최우수상, 2025**
 
 ---
 
@@ -191,5 +182,3 @@ AI-powered hairstyle recommendation system.
 **GitHub · [@hongzzang-Lab](https://github.com/hongzzang-Lab)**
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=120&section=footer)
