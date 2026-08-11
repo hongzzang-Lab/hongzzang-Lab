@@ -20,11 +20,11 @@ I like turning a concrete user problem into a working system: defining the probl
 
 ## What I've built
 
-- **[M.O.S — Map of Safety](https://github.com/hongzzang-Lab/MOS-Map-of-Safety)** — Real-time safety navigation for pedestrians and mobility-impaired users. Combines YOLO/NCNN edge inference, IPM distance estimation, OSMnx routing, and risk-aware path recommendation. **1st Python SW Application Competition — Grand Prize, 2026.**
+- **[M.O.S — Map of Safety](https://github.com/hongzzang-Lab/MOS-Map-of-Safety)** — Real-time safety navigation for pedestrians and mobility-impaired users. Combines YOLO/NCNN edge inference, IPM distance estimation, OSMnx routing, and risk-aware path recommendation. **제1회 파이썬 SW 활용 경진대회 최우수상, 2026.**
 
-- **Sign Angel** — Emergency sign-language communication system using MediaPipe-based **347D feature engineering**, a **Bi-LSTM** recognition model, and an LLM for context-aware emergency messages. Expanded into a **KCI first-author paper** after winning the H.O.P.E. Assistive Engineering Competition.
+- **Sign Angel** — Emergency sign-language communication system using MediaPipe-based **347D feature engineering**, a **Bi-LSTM** recognition model, and an LLM for context-aware emergency messages. Expanded into a **KCI first-author paper** after receiving the **H.O.P.E. 창의보조공학 경진대회 최우수상**.
 
-- **[SEAL — Smart Enhanced Assistive Locomotion](https://github.com/hongzzang-Lab/SEAL-Smart-Enhanced-Assistive-Locomotion)** — Assistive mobile robot using Arduino, IR/line sensors, ultrasonic sensing, Bluetooth, and PWM motor control. **Kwangwoon University Creative Engineering Design Award, 2024.**
+- **[SEAL — Smart Enhanced Assistive Locomotion](https://github.com/hongzzang-Lab/SEAL-Smart-Enhanced-Assistive-Locomotion)** — Assistive mobile robot using Arduino, IR/line sensors, ultrasonic sensing, Bluetooth, and PWM motor control. **광운대학교 창의공학설계 창의상, 2024.**
 
 - **[TERRA128](https://github.com/TERRA128)** — Terrain-aware exploration robot project. Worked as **Robotics System Engineer (Vision & Mechanical Design)** on RGB-D/IMU terrain perception, BEV/Costmap-based planning, A* path search, and mechanical probe design.
 
@@ -32,24 +32,23 @@ I like turning a concrete user problem into a working system: defining the probl
 
 ## Research & publication
 
-### 긴급상황 속 수어해석 애플리케이션
+### [A Real-time Sign Language Interpretation Application for Emergency Situations](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003298946)
 
-**First Author — Journal of the Institute of Electronics and Information Engineers, Vol. 63, No. 1, pp. 81–88, Jan. 2026**  
-DOI: **[10.5573/eie.2026.63.1.81](https://doi.org/10.5573/eie.2026.63.1.81)**
+**First Author — Journal of the Institute of Electronics and Information Engineers, Vol. 63, No. 1, pp. 81–88, Jan. 2026**
 
 - MediaPipe-based 347-dimensional feature engineering
 - Bi-LSTM sign-language recognition
-- **90.00% accuracy**
+- **Accuracy 90.00% · F1-Score 89.11%**
 - LLM-based emergency message generation using situational context
 
 Follow-up research is in progress on robust Korean sign-language recognition under noise and occlusion.
 
 ## Highlights
 
-- 🏆 **H.O.P.E. Assistive Engineering Competition — Grand Prize (최우수상), 2025** · Sign Angel
-- 🏆 **1st Python SW Application Competition — Grand Prize (최우수상), 2026** · M.O.S
-- 🏅 **Kwangwoon University Creative Engineering Design Award, 2024** · SEAL
-- 🎓 **KT Digital Talent Scholarship, 2026** · Team Leader of Gilbut AI project
+- 🏆 **H.O.P.E. 창의보조공학 경진대회 최우수상, 2025** · Sign Angel
+- 🏆 **제1회 파이썬 SW 활용 경진대회 최우수상, 2026** · M.O.S
+- 🏅 **광운대학교 창의공학설계 창의상, 2024** · SEAL
+- 🎓 **KT 디지털인재장학생, 2026** · Team Leader of Gilbut AI project
 - 📄 **KCI Journal Publication, 2026** · First author
 - 🔬 **GIST AILAB Summer Internship, 2026** · Embodied AI research
 
