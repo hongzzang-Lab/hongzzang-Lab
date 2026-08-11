@@ -16,7 +16,7 @@ I like turning a concrete user problem into a working system: defining the probl
 
 - **GIST AILAB — Summer Research Intern** · Embodied AI / Visual Room Rearrangement research, exploring action-level verification before object-pose-changing actions are executed.
 - **[Gilbut AI](https://github.com/Gilbut2026/Gilbut_AI)** · Team Leader / AI Part Lead for an accessibility-aware mobility service. Working on personalized route scoring using walking ability, stairs, mobility aids, transfers, obstacles, and weather.
-- **EASY Lab — Undergraduate Researcher** · Continuing research in Vision, Edge AI, and Physical AI.
+- **EASY Lab — Undergraduate Researcher** · Continuing research in Vision, Edge AI
 
 ## What I've built
 
