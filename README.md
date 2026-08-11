@@ -29,7 +29,7 @@ My technical path has expanded from **sensor control → Vision AI → Edge AI �
   Accessibility-aware mobility service with personalized route scoring using walking ability, stairs, mobility aids, transfers, obstacles, and weather.
 
 - **EASY Lab — Undergraduate Researcher**  
-  Research interests spanning Vision AI, Edge AI, distributed intelligence, Physical AI, and robotics.
+  Research interests spanning Vision AI, Edge AI, distributed intelligence
 
 ---
 
