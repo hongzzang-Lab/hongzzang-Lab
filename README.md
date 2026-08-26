@@ -66,7 +66,6 @@ Real-time safety navigation for pedestrians and mobility-impaired users.
 - YOLO/NCNN-based edge perception
 - IPM-based real-world distance estimation
 - OSMnx pedestrian routing and risk-aware path recommendation
-- **파이썬 SW 활용 경진대회 최우수상, 2026**
 
 ### 🤟 Sign Angel
 Emergency sign-language communication system for disaster situations.
@@ -77,7 +76,6 @@ Emergency sign-language communication system for disaster situations.
 - Built Bi-LSTM sign-language recognition pipeline
 - Accuracy **90.00%**, F1-Score **89.11%**
 - Expanded into a **KCI first-author publication**
-- **H.O.P.E. 창의보조공학 경진대회 최우수상, 2025**
 
 ### 🤖 [SEAL — Smart Enhanced Assistive Locomotion](https://github.com/hongzzang-Lab/SEAL-Smart-Enhanced-Assistive-Locomotion)
 Assistive mobile robot for visually impaired users.
@@ -86,9 +84,8 @@ Assistive mobile robot for visually impaired users.
 
 - Line-tracing based mobility assistance
 - Obstacle detection and motor control
-- **창의공학설계 창의상, 2024**
-
-### ⚙️ SEGWAY — Two-Wheel Balancing Robot *(Private Repository)*
+  
+### ⚙️ SEGWAY — Two-Wheel Balancing Robot
 Two-wheel balancing robot designed, physically fabricated, and stabilized with IMU-based cascaded PID control.
 
 `Autodesk Inventor` · `DC Gear Motor` · `IMU` · `Cascaded PID Control` · `Mechanical Design`
