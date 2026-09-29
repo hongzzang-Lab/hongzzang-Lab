@@ -2,10 +2,10 @@
 
 <h1>Jeong-min Hong 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=760&lines=Vision+AI+%E2%86%92+Edge+AI+%E2%86%92+Physical+AI;Embodied+AI+%26+Rescue+Robotics;Building+AI+systems+for+mobility%2C+communication%2C+and+real-world+robots" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=760&lines=Vision+AI+%E2%86%92+Edge+AI+%E2%86%92+Physical+AI;Embodied+AI+%26+Rescue+Robotics;Perception+%7C+Control+%7C+Deployment" alt="Typing SVG" />
 
 **AI & Robotics undergraduate @ Kwangwoon University**  
-**GIST AILAB Summer Research Intern · EASY Lab Undergraduate Researcher**
+**GIST AILAB Summer Research Internship · EASY Lab Undergraduate Researcher**
 
 </div>
 
@@ -13,23 +13,22 @@
 
 ## 👋 About Me
 
-I am an AI & Robotics undergraduate interested in turning perception and intelligence into **systems that work in the physical world**.
+**Field:** AI & Robotics · Vision AI · Edge AI · Physical AI
 
-My technical path has expanded from **sensor control → Vision AI → Edge AI → Physical AI**, and I have worked across assistive robotics, sign-language recognition, edge navigation, embodied AI, balancing-robot hardware and control, and accessibility-aware mobility systems.
+**Work:** Assistive robotics · Sign-language recognition · Edge navigation · Embodied AI · Robot control · Accessible mobility
 
-> **Current Interest — Rescue Robotics (구조로봇)**  
-> I am currently especially interested in rescue robots that must perceive, navigate, and make robust decisions in uncertain disaster environments.
+> **Research interest — Rescue Robotics:** Perception · Navigation · Robust decision-making in uncertain environments
 
-### 🔭 Current Focus
+### 🔭 Research Focus
 
-- **GIST AILAB — Summer Research Intern**  
-  Visual Room Rearrangement / Embodied AI research, exploring **action-level verification** before object-pose-changing actions are executed.
+- **GIST AILAB — Summer Research Internship**  
+  **Task:** Visual Room Rearrangement · **Method:** Pre-execution verification of object-pose-changing actions
 
 - **[Gilbut AI](https://github.com/Gilbut2026/Gilbut_AI) — Team Leader**  
-  Accessibility-aware mobility service with personalized route scoring using walking ability, stairs, mobility aids, transfers, obstacles, and weather.
+  **System:** Accessibility-aware route scoring · **Factors:** Walking ability, stairs, mobility aids, transfers, obstacles, weather
 
 - **EASY Lab — Undergraduate Researcher**  
-  Research interests spanning Vision AI, Edge AI, distributed intelligence
+  **Topics:** Vision AI · Edge AI · Distributed intelligence
 
 ---
 
@@ -37,78 +36,76 @@ My technical path has expanded from **sensor control → Vision AI → Edge AI �
 
 ### Embodied AI · Action-level Verification
 
-At **GIST AILAB**, I am exploring verification methods for Visual Room Rearrangement: checking whether a planner-selected object-pose-changing action may create a new misplaced object **before execution**.
+**GIST AILAB:** Visual Room Rearrangement · Planner action verification · Pre-execution misplaced-object risk assessment
 
 ### Smart Chain Research Seminar · UAV Swarm
 
-At **EASY Lab**, I reviewed and simulated research ideas around:
+**EASY Lab seminar topics:**
 
-- distributed LLM inference in **UAV Swarm** environments
-- model/workload distribution across multiple edge nodes
-- **Node Failure recovery** and fallback structures
-- decentralized Edge AI as an alternative to single-server dependence
-
-This research seminar is currently paused while I am participating in the GIST internship.
+- **UAV Swarm:** Distributed LLM inference
+- **Edge nodes:** Model and workload distribution
+- **Fault tolerance:** Node failure recovery and fallback
+- **Architecture:** Decentralized Edge AI
 
 ### Robust Sign Language Recognition
 
-Following the Sign Angel project and KCI publication, I am continuing exploration of **robust Korean sign-language recognition under noise and occlusion**, including domain-informed landmark feature engineering.
+**Task:** Korean sign-language recognition under noise and occlusion · **Method:** Landmark feature engineering
 
 ---
 
 ## 🚀 Selected Projects
 
 ### 🗺️ [M.O.S — Map of Safety](https://github.com/hongzzang-Lab/MOS-Map-of-Safety)
-Real-time safety navigation for pedestrians and mobility-impaired users.
+**Task:** Risk-aware pedestrian routing · **Target:** Pedestrians and mobility-impaired users
 
 `YOLOv11n-seg` · `NCNN` · `Raspberry Pi 5` · `IPM` · `OSMnx` · `Gemini` · `Edge AI`
 
-- YOLO/NCNN-based edge perception
-- IPM-based real-world distance estimation
-- OSMnx pedestrian routing and risk-aware path recommendation
+- **Perception:** YOLO/NCNN inference on edge hardware
+- **Geometry:** IPM-based distance estimation
+- **Routing:** OSMnx pedestrian graph and risk-aware path scoring
 
 ### 🤟 Sign Angel
-Emergency sign-language communication system for disaster situations.
+**Task:** Emergency sign-language recognition and communication
 
 `MediaPipe` · `347D Landmark Features` · `Bi-LSTM` · `FastAPI` · `LLM`
 
-- Designed 347-dimensional landmark feature engineering
-- Built Bi-LSTM sign-language recognition pipeline
-- Accuracy **90.00%**, F1-Score **89.11%**
-- Expanded into a **KCI first-author publication**
+- **Features:** 347D landmark feature vector
+- **Model:** Bi-LSTM sign-language classifier
+- **Results:** Accuracy **90.00%** · F1 **89.11%**
+- **Publication:** KCI journal, first author
 
 ### 🤖 [SEAL — Smart Enhanced Assistive Locomotion](https://github.com/hongzzang-Lab/SEAL-Smart-Enhanced-Assistive-Locomotion)
-Assistive mobile robot for visually impaired users.
+**Task:** Visual impairment mobility assistance
 
 `Arduino` · `IR Sensor` · `Ultrasonic Sensor` · `PWM`
 
-- Line-tracing based mobility assistance
-- Obstacle detection and motor control
+- **Navigation:** Line tracing
+- **Control:** Obstacle detection · Motor control
   
 ### ⚙️ SEGWAY — Two-Wheel Balancing Robot
-Two-wheel balancing robot designed, physically fabricated, and stabilized with IMU-based cascaded PID control.
+**Task:** Two-wheel self-balancing robot · **Control:** IMU feedback and cascaded PID
 
 `Autodesk Inventor` · `DC Gear Motor` · `IMU` · `Cascaded PID Control` · `Mechanical Design`
 
-- Designed the complete two-wheel robot hardware structure in Autodesk Inventor
-- Created custom base, side, and insert plates around the DC gear-motor drive layout
-- Fabricated and assembled the physical robot platform based on the CAD design
-- Integrated IMU feedback for real-time attitude estimation
-- Implemented the **inner loop of a cascaded PID controller** and achieved successful two-wheel balance stabilization
-- Source repository is private; project details are summarized here without exposing the repository
+- **CAD:** Chassis and drivetrain layout in Autodesk Inventor
+- **Mechanical:** Custom base, side, and insert plates
+- **Prototype:** Fabrication and assembly
+- **Sensing:** IMU-based attitude estimation
+- **Control:** Cascaded PID inner loop · Balance stabilization
+- **Repository:** Private
 
 ### 🌍 [TERRA128](https://github.com/TERRA128)
-Terrain-aware exploration robot project.
+**Task:** Terrain-aware exploration robot
 
 `RealSense RGB-D` · `IMU` · `BEV` · `Costmap` · `A*` · `Inventor`
 
-- Role: **Robotics System Engineer — Vision & Mechanical Design**
-- RGB-D/IMU terrain perception and mapping
-- Costmap/A* planning structure
-- Mechanical probe and frame design
+- **Role:** Vision and mechanical design
+- **Perception:** RGB-D/IMU terrain mapping
+- **Planning:** Costmap · A*
+- **Hardware:** Probe and frame design
 
 ### 💇 [StyleVision](https://github.com/hongzzang-Lab/Style-Vision-AI-Hair-Recommendation)
-AI-powered hairstyle recommendation system.
+**Task:** Hairstyle recommendation with computer vision
 
 ---
 
@@ -119,17 +116,17 @@ AI-powered hairstyle recommendation system.
 **First Author** · Journal of the Institute of Electronics and Information Engineers  
 **Vol. 63, No. 1, pp. 81–88 · Jan. 2026**
 
-- MediaPipe-based **347-dimensional feature engineering**
-- Bi-LSTM sign-language recognition
-- **Accuracy 90.00% · F1-Score 89.11%**
-- LLM-based emergency message generation using situational context
+- **Features:** MediaPipe-based 347D landmarks
+- **Model:** Bi-LSTM sign-language recognition
+- **Results:** Accuracy 90.00% · F1 89.11%
+- **Output:** Context-aware emergency message generation with LLM
 
 ---
 
 ## 🧑‍🏫 Mentoring & Leadership
 
-- **AI 티키타카 Mentor** — selected as an AI mentoring program mentor and currently participating in mentoring activities.
-- **Physics Foundation Mentor** — mentoring undergraduate students in foundational physics learning.
+- **AI 티키타카:** AI project mentor
+- **Physics Foundation:** Undergraduate physics mentor
 
 ---
 
@@ -148,7 +145,7 @@ AI-powered hairstyle recommendation system.
 
 ## 🛠️ Tech Stack
 
-> Tech stack below follows the technologies listed in my current CV.
+> **Tools:** Hardware · Vision · Control · Programming
 
 | Category | Technologies |
 |---|---|
@@ -162,7 +159,6 @@ AI-powered hairstyle recommendation system.
 ## 📊 GitHub Activity
 
 <div align="center">
-
 
 <br/>
 
