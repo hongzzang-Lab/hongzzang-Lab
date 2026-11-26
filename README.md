@@ -15,7 +15,7 @@ I work on **robot vision and computer vision**, connecting learning-based method
 
 - **[Sign Language Landmark Research](https://github.com/hongzzang-Lab/sign-language-landmark-research)** — From emergency sign language interpretation to robust landmark feature representations. `PyTorch` `MediaPipe` `SLR`
 - **[M.O.S — Map of Safety](https://github.com/hongzzang-Lab/MOS-Map-of-Safety)** — Monocular visual perception and risk-aware pedestrian navigation. `YOLO` `BEV` `OSMnx`
-- **[BlindGuard AI](https://github.com/hongzzang-Lab/BlindGuard-AI)** — Roadside pedestrian and vehicle safety monitoring with edge AI and simulation. `CARLA` `YOLO` `Raspberry Pi`
+- **[BlindGuard-X](https://github.com/hongzzang-Lab/BlindGuard-X)** — Roadside edge AI that warns the driver on a conflict course with an unseen pedestrian; ROI Packing on a Raspberry Pi 5, evaluated on MOT15 and SOMPT22. `CARLA` `YOLO` `Raspberry Pi` · [earlier prototype](https://github.com/hongzzang-Lab/BlindGuard-AI)
 - **[SEAL — Smart Enhanced Assistive Locomotion](https://github.com/hongzzang-Lab/SEAL-Smart-Enhanced-Assistive-Locomotion)** — Sensor-based assistive mobile robotics and motor control. `Arduino` `Sensors` `PWM`
 
 ## Publications & Research
