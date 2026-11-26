@@ -2,9 +2,9 @@
 
 **AI & Robotics Undergraduate Researcher** · Kwangwoon University
 
-I work on **robot vision and computer vision**, connecting learning-based methods with practical robotic systems. I am currently most interested in **robustness** and **embodied AI**—making perception and autonomous decisions reliable when real-world observations are imperfect.
+I work on **robot vision and computer vision**, connecting learning-based methods with practical robotic systems. My approach is to stay with **lightweight, existing models and representations** and make them **robust and accurate**, rather than reaching for larger ones—so that perception stays reliable when real-world observations are imperfect. I am currently most interested in **robustness** and **embodied AI**.
 
-**Research interests:** Robot Vision · Computer Vision  
+**Research interests:** Robot Vision · Computer Vision · Lightweight, Robust Perception  
 **Research experience:** EASY Lab · GIST AILAB Summer Research Internship (2026)
 
 [Personal Website](https://hongzzang-lab.github.io/hongzzang-Lab/) · [Research Portfolio](https://github.com/hongzzang-Lab/sign-language-landmark-research) · [Publications](https://github.com/hongzzang-Lab/sign-language-landmark-research/blob/main/docs/publications.md)
