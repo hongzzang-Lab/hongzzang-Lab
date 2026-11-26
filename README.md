@@ -2,9 +2,9 @@
 
 **AI & Robotics Undergraduate Researcher** · Kwangwoon University
 
-I work on **robot perception, computer vision, and edge AI**, connecting learning-based methods with practical robotic systems. I am especially interested in making perception and autonomous decisions reliable when real-world observations are imperfect.
+I work on **robot vision and computer vision**, connecting learning-based methods with practical robotic systems. I am currently most interested in **robustness** and **embodied AI**—making perception and autonomous decisions reliable when real-world observations are imperfect.
 
-**Research interests:** Robot Perception · Embodied AI · Computer Vision · Edge AI  
+**Research interests:** Robot Vision · Computer Vision  
 **Research experience:** EASY Lab · GIST AILAB Summer Research Internship (2026)
 
 [Personal Website](https://hongzzang-lab.github.io/hongzzang-Lab/) · [Research Portfolio](https://github.com/hongzzang-Lab/sign-language-landmark-research) · [Publications](https://github.com/hongzzang-Lab/sign-language-landmark-research/blob/main/docs/publications.md)
